@@ -9,3 +9,5 @@ Online domains are displayed in green, offline domains in red, and invalid domai
 The script uses the socket module to resolve domain names to IP addresses. 
 It utilizes the subprocess module to execute the ping command and captures the output. 
 The script utilizes ANSI escape codes for colored output in the terminal.
+
+![image](https://github.com/aNo0ne/Online-checker/assets/84189110/56120563-8965-4700-ae9a-1450efa9d6e6)
